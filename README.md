@@ -42,7 +42,8 @@
 
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mastergs95&repo=github-readme-stats)](https://github.com/Mastergs95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastergs95&layout=compact)](https://github.com/Mastergs95/github-readme-stats)
+
 
 
 
