@@ -17,7 +17,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Mastergs95)](https://github.com/Mastergs95)
+[![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteink=https://github.com/Mastergs95)
 
 
 
