@@ -1,4 +1,4 @@
-###  Welcome! GIF
+###  Welcome! 
 
 
 ## I'm Gonçalo Sousa!
