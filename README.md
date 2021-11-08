@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Java and C#.
 - 💬 Ask me about whatever you want, about programming.
 ## Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)
 
 ## About me
 
