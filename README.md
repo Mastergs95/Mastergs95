@@ -40,14 +40,14 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+/n
 
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastergs95&layout=compact)](https://github.com/Mastergs95/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95)](https://github.com/Mastergs95/github-readme-stats)
+
 
 
 
