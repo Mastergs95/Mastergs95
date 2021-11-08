@@ -9,7 +9,7 @@
 - 💬 Ask me about whatever you want, about programming.
 
 
-## 📱 Contact Me
+## Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-sousa-5843121b1/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)](https://github.com/Mastergs95/)
