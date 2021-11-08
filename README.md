@@ -41,7 +41,7 @@
 
 ## Funding and Sound
 
-[![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/Ggsousa)
+[![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Ggsousa)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3qveti1my9u0e8bhemt4yjw75)
 
 
