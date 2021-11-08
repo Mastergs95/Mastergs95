@@ -19,4 +19,4 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!!
