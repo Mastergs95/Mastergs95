@@ -1,4 +1,4 @@
-###  Welcome! 
+###  Welcome! 👋
 
 
 ## I'm Gonçalo Sousa!
