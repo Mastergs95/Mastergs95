@@ -26,8 +26,9 @@
 
 ## My Projects
 
-[![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=https://github.com/Mastergs95/)](https://github.com/Mastergs95/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&https://gitlab.com/Mastergs95)](https://gitlab.com/Mastergs95)
+[![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=https://github.com/Mastergs95/)](https://github.com/Mastergs95/)
+
 
 ## Languages and Databases
 
