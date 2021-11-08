@@ -41,7 +41,8 @@
 ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api?Mastergs95={Mastergs95}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95)](https://github.com/Mastergs95/github-readme-stats)
+
 
 
 ## Funding and Sound
