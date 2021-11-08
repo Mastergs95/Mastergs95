@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)](https://github.com/Mastergs95/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&https://www.instagram.com/_.goncalosousa._/)](www.instagram.com/_.goncalosousa._/)
 
-## 💽 Plataforms
+## Plataforms
 
 ![Github Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -24,13 +24,13 @@
 ![Github Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 📕 My Projects
+## My Projects
 
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&https://gitlab.com/Mastergs95)](https://gitlab.com/Mastergs95)
 [![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=https://github.com/Mastergs95/)](https://github.com/Mastergs95/)
 
 
-## ⚡ Languages and Databases
+##  Languages and Databases
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -50,12 +50,12 @@
 
 
 
-## 🎼 Funding and Sound
+## Funding and Sound
 
 [![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Ggsousa)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3qveti1my9u0e8bhemt4yjw75)
 
-## 📊 Stats
+## Stats
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=radical)
 
