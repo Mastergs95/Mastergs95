@@ -4,7 +4,7 @@
 ## I'm Gonçalo Sousa!
 
 
-- 🌱 I’m currently learning Java and C#.
+- 🌱 I’m currently learning C#, Outsystems and Java.
 - 💬 Ask me about whatever you want, about programming.
 
 
