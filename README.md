@@ -28,10 +28,7 @@
 [![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitelink=https://github.com/Mastergs95/)](https://github.com/Mastergs95/)
 
 
-##  Languages and Databases
-
-![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastergs95&layout=compact)](https://github.com/Mastergs95/github-readme-stats)
+##  Languages
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=orange)
@@ -42,6 +39,8 @@
 ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastergs95&layout=compact)](https://github.com/Mastergs95/github-readme-stats)
 
 
 ## Funding and Sound
