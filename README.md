@@ -17,7 +17,7 @@
 ## Plataforms
 
 ![Github Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Github Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=orange)
+![Github Badge](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=JetBrains&logoColor=purple)
 ![Github Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
