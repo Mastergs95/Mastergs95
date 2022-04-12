@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastergs95&layout=compact)](https://github.com/Mastergs95/github-readme-stats)
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=orange)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
