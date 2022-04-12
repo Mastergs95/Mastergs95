@@ -40,7 +40,7 @@
 ![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastergs95)](https://github.com/mastergs95/github-readme-stats)
+
 
 
 ## Funding and Sound
