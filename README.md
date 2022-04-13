@@ -42,7 +42,7 @@
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
 
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bd37a932-c420-4818-8107-6d61ab74c06f&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ## Funding and Sound
