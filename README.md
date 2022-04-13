@@ -40,9 +40,8 @@
 ![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
-
-<!--START_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats)
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/bd37a932-c420-4818-8107-6d61ab74c06f.svg)](https://wakatime.com/@bd37a932-c420-4818-8107-6d61ab74c06f)
 
