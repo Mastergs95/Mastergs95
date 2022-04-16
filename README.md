@@ -1,7 +1,7 @@
 ###  Welcome! 👋
 
 
-## I'm Gonçalo Sousa!
+## I'm Gonçalo Diogo!
 
 
 - 🌱 I’m currently learning Java.
