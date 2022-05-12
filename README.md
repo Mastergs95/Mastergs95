@@ -42,7 +42,7 @@
 </div>        
     <br>
     
-***
+
 
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
@@ -62,7 +62,7 @@
   
 </div>
 
-
+***
 
 
 <p align="center">This <i>README</i> file <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"></a></p>
