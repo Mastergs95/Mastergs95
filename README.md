@@ -8,10 +8,7 @@
 - 💬 Ask me about whatever you want, about programming.
 
 
-## Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)](https://github.com/Mastergs95/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonçalo-diogo-5843121b1/)
 
 
 ## IDE
@@ -23,7 +20,7 @@
 
 
 
-##  Languages
+##  Languages And Tools
 
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=orange)
@@ -40,10 +37,16 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Contact Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&goncalogsd@gmail.com)](https://github.com/Mastergs95/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonçalo-diogo-5843121b1/)
+
 ## Funding and Sound
 
 [![Paypal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Ggsousa)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3qveti1my9u0e8bhemt4yjw75)
+
 
 
 <div>
