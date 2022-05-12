@@ -38,11 +38,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px" height="40px"/>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="55px" height="40px"/>
+</div> 
 
-</div>        
-    <br>
-    
-   ***
+
+
+
 
    <br>
    
@@ -52,10 +52,7 @@
 <!--END_SECTION:waka-->
 
 
-   ***
-   
    <br>
-
 
 ## Funding and Sound
 
