@@ -1,6 +1,3 @@
-###  Welcome! 👋
-
-
 ## I'm Gonçalo Diogo!
 
 
@@ -37,6 +34,9 @@
 
 </div>        
     <br>
+    
+***
+
 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats)
