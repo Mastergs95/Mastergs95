@@ -46,3 +46,8 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3qveti1my9u0e8bhemt4yjw75)
 
 
+<div>
+
+  ![Snake animation](https://github.com/mastergs95/mastergs95/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
