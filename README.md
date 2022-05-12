@@ -1,10 +1,9 @@
 ## I'm Gonçalo Diogo!
 
-
+```
 - I’m currently learning Java.
 - Ask me about whatever you want, about programming.
-
-
+```
 
 
 
