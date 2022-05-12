@@ -1,9 +1,20 @@
-## I'm Gonçalo Diogo!
+## I'm Gonçalo Diogo!  
 
 
-> I’m currently learning Java.
+> I’m currently learning Java.<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="275px"/>
 
-> Ask me about whatever you want, about programming.
+> Ask me about 
+
+> Ask me about whatever 
+
+> Ask me about whatever you 
+
+> Ask me about whatever you want,
+
+> Ask me about whatever you want, about 
+
+>  Ask me about whatever you want, about programming
+
 
 
 ## IDE
@@ -11,8 +22,6 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="55px" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55px" height="45px"/>
-
-
 </div>     
 
 
