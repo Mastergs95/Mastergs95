@@ -1,7 +1,8 @@
 ## I'm Gonçalo Diogo!  
 
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="275px"/>
 
-> I’m currently learning Java.<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="475px" height="275px"/>
+> I’m currently learning Java.
 
 > Ask me about 
 
