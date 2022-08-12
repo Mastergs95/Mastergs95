@@ -2,7 +2,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="275px"/>
 
-> I’m currently learning Java.
 
 > Ask me about 
 
