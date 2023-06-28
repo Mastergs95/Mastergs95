@@ -1,4 +1,4 @@
-## Im Gonçalo Diogo
+## Im Gonçalo Sousa
 
  * Im Work as Full Stack Developer. 🌎
  * Im Studying Javascript Frameworks. 👨🏻‍💻
