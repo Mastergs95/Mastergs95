@@ -1,20 +1,10 @@
-## I'm Gonçalo Diogo!  
+## Im Gonçalo Diogo
 
+ * Im Work as Full Stack Developer. 🌎
+ * Im Studying Javascript Frameworks. 👨🏻‍💻
+<!--
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="275px"/>
-
-
-> Ask me about 
-
-> Ask me about whatever 
-
-> Ask me about whatever you 
-
-> Ask me about whatever you want,
-
-> Ask me about whatever you want, about 
-
->  Ask me about whatever you want, about programming
-
+-->
 
 
 ## IDE
@@ -28,16 +18,18 @@
 ##  Languages And Tools
 
 <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55px" height="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="55px" height="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55px" height="40px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px" height="40px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55px" height="40px"/>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="55px" height="40px"/>
+
 </div> 
 
 
@@ -45,12 +37,10 @@
 
 
    <br>
-   
+<!-- 
 ![Mastergs95 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mastergs95&show_icons=true&theme=codeSTACKr)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mastergs95&theme=codeSTACKr)](https://github.com/mastergs95/github-readme-stats) ->
+-->
 
    <br>
 
